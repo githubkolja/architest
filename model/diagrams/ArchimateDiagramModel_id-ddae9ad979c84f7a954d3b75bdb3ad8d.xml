@@ -15,4 +15,16 @@
         xsi:type="archimate:Contract"
         href="Contract_id-6510cf7afbf3484aa9eb898a8881c5b0.xml#id-6510cf7afbf3484aa9eb898a8881c5b0"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a2a351e3754d4b12bed64628e4b35b73">
+    <bounds
+        x="142"
+        y="188"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Contract"
+        href="Contract_id-df24803c55814379ae770c5d89e6e978.xml#id-df24803c55814379ae770c5d89e6e978"/>
+  </children>
 </archimate:ArchimateDiagramModel>
